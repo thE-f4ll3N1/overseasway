@@ -2836,8 +2836,13 @@ html {
   }
   
   .padding-vertical.padding-custom3 {
-    padding: 7rem 0;
+    padding: 7rem;
   }
+  @media (min-width: 768px) {
+    .padding-vertical.padding-custom3 {
+        padding-top: 24rem; /* Top padding only for screens with a minimum width of 768px (desktops) */
+    }
+}
   
   .padding-vertical.padding-medium, .padding-vertical.padding-tiny, .padding-vertical.padding-xxlarge {
     padding-left: 0;
@@ -2937,7 +2942,7 @@ html {
   }
   
   .heading-xxlarge {
-    color: var(--blue);
+    color: var(--alabaster);
     font-family: Toronto, sans-serif;
     font-size: 4.5rem;
     font-weight: 500;
@@ -6366,7 +6371,7 @@ html {
     }
   
     .heading-xxlarge {
-      color: var(--blue);
+      color: var(--alabaster);
     }
   
     .heading-xxlarge.text-color-alabaster {
