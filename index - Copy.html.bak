@@ -572,39 +572,11 @@
                 <div class="page-padding padding-0">
                     <div class="container-full">
                         <div class="padding-vertical padding-custom1">
-                            <div class="text-align-left">
-                                <div class="max-width-xlarge">
-                                    <div class="margin-bottom margin-large">
-                                        <div class="w-layout-blockcontainer text-color-blackbean w-container">
-                                            <div>Our Partner Universities</div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="slider">
-                                <div class="slider-items">
-                                    <img src="/images/logos/univ-logo-1.png" alt="">
-                                    <img src="/images/logos/univ-logo-2.png" alt="">
-                                    <img src="/images/logos/univ-logo-3.png" alt="">
-                                    <img src="/images/logos/univ-logo-4.png" alt="">
-                                    <img src="/images/logos/univ-logo-5.png" alt="">
-                                    <img src="/images/logos/univ-logo-6.png" alt="">
-                                    <img src="/images/logos/univ-logo-7.png" alt="">
-                                    <img src="/images/logos/univ-logo-8.png" alt="">
-                                    <img src="/images/logos/univ-logo-9.png" alt="">
-                                    <img src="/images/logos/univ-logo-10.png" alt="">
-                                    <img src="/images/logos/univ-logo-11.png" alt="">
-                                    <img src="/images/logos/univ-logo-12.png" alt="">
-                                    <img src="/images/logos/univ-logo-13.png" alt="">
-                                </div>
-                            </div>
-                            <!--<div class="stats_component">
-                                
+                            <div class="stats_component">
                                 <section data-w-id="9a6ada4b-1585-8201-8f85-731772f8dd73" class="stats_content-top">
                                     <div class="stats-top_component">
                                         <div class="stats-top_wrapper">
                                             <div class="stats-top_marquee">
-                                                
                                                 <div class="stats-top_text-wrapper">
                                                     <div class="heading-marquee">10+ Countries</div>
                                                 </div>
@@ -635,8 +607,7 @@
                                         </div>
                                     </div>
                                 </section>
-
-                            </div>-->
+                            </div>
                         </div>
                     </div>
                 </div>

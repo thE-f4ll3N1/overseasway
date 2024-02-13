@@ -24223,6 +24223,7 @@
         });
       }
     });
+
   
     // packages/shared/render/plugins/Navbar/webflow-navbar.js
     var require_webflow_navbar = __commonJS({
@@ -24693,6 +24694,7 @@
     require_webflow_lightbox();
     require_webflow_navbar();
   })();
+      
   /*!
    * tram.js v0.8.2-global
    * Cross-browser CSS3 transitions in JavaScript
