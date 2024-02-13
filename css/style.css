@@ -184,7 +184,10 @@ html {
     font-weight: normal;
     font-style: normal;
   }
-  
+  .navbar_menu.w-nav-menu{
+    background-color: rgba(117, 134, 150, 0) !important;
+  }
+  /*class navmenu get in touc page*/
   [class^="w-icon-"], [class*=" w-icon-"] {
     speak: none;
     font-variant: normal;
@@ -353,7 +356,7 @@ html {
     white-space: nowrap;
     cursor: pointer;
     box-shadow: 0 0 0 1px rgba(0, 0, 0, .1), 0 1px 3px rgba(0, 0, 0, .1);
-    visibility: visible !important;
+    visibility: hidden !important;
     z-index: 2147483647 !important;
     color: #aaadb0 !important;
     opacity: 1 !important;
@@ -377,7 +380,7 @@ html {
   }
   
   .w-webflow-badge > img {
-    visibility: visible !important;
+    visibility: hidden !important;
     opacity: 1 !important;
     vertical-align: middle !important;
     display: inline-block !important;
@@ -2253,9 +2256,9 @@ html {
     color: var(--black);
     text-decoration: underline;
   }
-  
+  /*changed*/
   ul {
-    margin-top: 1rem;
+    margin-top: 0rem;
     margin-bottom: 1rem;
     padding-left: 1.25rem;
   }
@@ -5816,7 +5819,7 @@ html {
   }
   
   .section-contact {
-    background-color: var(--dark-slate-grey);
+    background-color: rgb(193, 169, 169);
   }
   
   .contact-form-input {
