@@ -4791,7 +4791,7 @@ html {
   }
   
   .footer_bottom-wrapper {
-    background-image: url("https://assets-global.website-files.com/65a13e5a800704efffd051f5/65b1d655c647c278ff4ffe47_logo2-03-03.jpg");
+    background-image: url("/images/logo2-03-03.jpg");
     background-position: 50%;
     background-size: contain;
     justify-content: space-between;
@@ -9278,98 +9278,98 @@ html {
   
   @font-face {
     font-family: 'Toronto';
-    src: url('https://uploads-ssl.webflow.com/65a13e5a800704efffd051f5/65a351168ad6c1d35e43e124_toronto.zip') format('undefined'), url('https://uploads-ssl.webflow.com/65a13e5a800704efffd051f5/65a351817c89e05bfaab617f_Toronto.ttf') format('truetype');
+    src: url('/fonts/toronto.zip') format('undefined'), url('/fonts/Toronto.ttf') format('truetype');
     font-weight: 400;
     font-style: normal;
     font-display: swap;
   }
   @font-face {
     font-family: 'Nunito';
-    src: url('https://uploads-ssl.webflow.com/65a13e5a800704efffd051f5/65a35131dc1efbe1906df7aa_Nunito.zip') format('undefined');
+    src: url('/fonts/Nunito.zip') format('undefined');
     font-weight: 400;
     font-style: normal;
     font-display: swap;
   }
   @font-face {
     font-family: 'Allrox';
-    src: url('https://uploads-ssl.webflow.com/65a13e5a800704efffd051f5/65a13e5c800704efffd053eb_Allrox.ttf') format('truetype'), url('https://uploads-ssl.webflow.com/65a13e5a800704efffd051f5/65a13e5c800704efffd053eb_Allrox.ttf') format('truetype');
+    src: url('/fonts/Allrox.ttf') format('truetype'), url('/fonts/Allrox.ttf') format('truetype');
     font-weight: 400;
     font-style: normal;
     font-display: swap;
   }
   @font-face {
     font-family: 'Sherika';
-    src: url('https://uploads-ssl.webflow.com/65a13e5a800704efffd051f5/65a13e5c800704efffd053ec_Sherika-Black.ttf') format('truetype');
+    src: url('/fonts/Sherika-Black.ttf') format('truetype');
     font-weight: 900;
     font-style: normal;
     font-display: swap;
   }
   @font-face {
     font-family: 'Sherika';
-    src: url('https://uploads-ssl.webflow.com/65a13e5a800704efffd051f5/65a13e5c800704efffd053ea_Sherika-Bold.ttf') format('truetype');
+    src: url('/fonts/Sherika-Bold.ttf') format('truetype');
     font-weight: 700;
     font-style: normal;
     font-display: swap;
   }
   @font-face {
     font-family: 'Sherika';
-    src: url('https://uploads-ssl.webflow.com/65a13e5a800704efffd051f5/65a13e5c800704efffd053e8_Sherika-ExtraBold.ttf') format('truetype');
+    src: url('/fonts/Sherika-ExtraBold.ttf') format('truetype');
     font-weight: 800;
     font-style: normal;
     font-display: swap;
   }
   @font-face {
     font-family: 'Sherika';
-    src: url('https://uploads-ssl.webflow.com/65a13e5a800704efffd051f5/65a13e5c800704efffd053ee_Sherika-Light.ttf') format('truetype');
+    src: url('/fonts/Sherika-Light.ttf') format('truetype');
     font-weight: 300;
     font-style: normal;
     font-display: swap;
   }
   @font-face {
     font-family: 'Sherika';
-    src: url('https://uploads-ssl.webflow.com/65a13e5a800704efffd051f5/65a13e5c800704efffd053f0_Sherika-Medium.ttf') format('truetype');
+    src: url('/fonts/Sherika-Medium.ttf') format('truetype');
     font-weight: 500;
     font-style: normal;
     font-display: swap;
   }
   @font-face {
     font-family: 'Sherika';
-    src: url('https://uploads-ssl.webflow.com/65a13e5a800704efffd051f5/65a13e5c800704efffd053ed_Sherika-Regular.ttf') format('truetype');
+    src: url('/fonts/Sherika-Regular.ttf') format('truetype');
     font-weight: 400;
     font-style: normal;
     font-display: swap;
   }
   @font-face {
     font-family: 'Sherika';
-    src: url('https://uploads-ssl.webflow.com/65a13e5a800704efffd051f5/65a13e5c800704efffd053f2_Sherika-Thin.ttf') format('truetype');
+    src: url('/fonts/Sherika-Thin.ttf') format('truetype');
     font-weight: 100;
     font-style: normal;
     font-display: swap;
   }
   @font-face {
     font-family: 'Toronto';
-    src: url('https://uploads-ssl.webflow.com/65a13e5a800704efffd051f5/65a351810d444dfb5d2db8eb_Toronto%20Italic.ttf') format('truetype');
+    src: url('/fonts/Toronto%20Italic.ttf') format('truetype');
     font-weight: 400;
     font-style: italic;
     font-display: swap;
   }
   @font-face {
     font-family: 'Toronto';
-    src: url('https://uploads-ssl.webflow.com/65a13e5a800704efffd051f5/65a35181b52f089cc1bc3a03_Toronto%20Bold.ttf') format('truetype');
+    src: url('/fonts/Toronto%20Bold.ttf') format('truetype');
     font-weight: 700;
     font-style: normal;
     font-display: swap;
   }
   @font-face {
     font-family: 'Nunito Variablefont Wght';
-    src: url('https://uploads-ssl.webflow.com/65a13e5a800704efffd051f5/65a351b26c755c83b6b15dee_Nunito-Italic-VariableFont_wght.ttf') format('truetype');
+    src: url('/fonts/Nunito-Italic-VariableFont_wght.ttf') format('truetype');
     font-weight: 200 1000;
     font-style: italic;
     font-display: swap;
   }
   @font-face {
     font-family: 'Nunito Variablefont Wght';
-    src: url('https://uploads-ssl.webflow.com/65a13e5a800704efffd051f5/65a351b29f6d3c6f7e104712_Nunito-VariableFont_wght.ttf') format('truetype');
+    src: url('/fonts/Nunito-VariableFont_wght.ttf') format('truetype');
     font-weight: 200 1000;
     font-style: normal;
     font-display: swap;
