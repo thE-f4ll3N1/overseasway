@@ -314,24 +314,23 @@
                                     <div class="padding-vertical padding-large">
                                         <div class="w-layout-grid cta_content is--wider">
                                             <div class="cta_heading-wrap">
-                                                <h2 class="heading-11">Want more information ?</h2>
+                                                <h2 class="heading-11">Want more information?</h2>
                                             </div>
                                             <div class="cta_content-right">
                                                 <div class="margin-top margin-xsmall">
                                                     <div class="signup-form_component">
                                                         <div class="signup-form_form-block w-form">
                                                             <form id="email-form" name="email-form"
-                                                                data-name="Email Form" method="get"
-                                                                class="signup-form_form"
+                                                                data-name="Email Form" method="post"
+                                                                action="send_email.php" class="signup-form_form"
                                                                 data-wf-page-id="65a13e5c800704efffd053ba"
                                                                 data-wf-element-id="873443b9-8f2a-7e45-47e0-b65176142cc1">
                                                                 <input class="form-input-cta w-input" maxlength="256"
-                                                                    name="email-6" data-name="Email 6"
-                                                                    placeholder="your@email.com" type="email"
-                                                                    id="email-6" required="" /><input type="submit"
-                                                                    data-wait="Please wait..."
-                                                                    id="w-node-_873443b9-8f2a-7e45-47e0-b65176142cc3-ffd053ba"
-                                                                    class="button-sign-up w-button" value="" />
+                                                                    name="email" data-name="Email"
+                                                                    placeholder="your@email.com" type="email" id="email"
+                                                                    required />
+                                                                <input type="submit" data-wait="Please wait..."
+                                                                    class="button-sign-up w-button" value="Submit" />
                                                             </form>
                                                             <div class="success-message w-form-done">
                                                                 <div>Thank you! Your submission has been received!</div>
@@ -345,6 +344,7 @@
                                                 </div>
                                             </div>
                                         </div>
+
                                     </div>
                                 </div>
                             </div>
