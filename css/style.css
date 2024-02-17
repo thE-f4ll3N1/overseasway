@@ -184,9 +184,9 @@ html {
     font-weight: normal;
     font-style: normal;
   }
-  .navbar_menu.w-nav-menu{
+  /*.navbar_menu.w-nav-menu{
     background-color: rgba(117, 134, 150, 0) !important;
-  }
+  }*/
   /*class navmenu get in touc page*/
   [class^="w-icon-"], [class*=" w-icon-"] {
     speak: none;
@@ -4834,7 +4834,7 @@ html {
     color: var(--blue);
     padding-top: 1rem;
     font-family: Toronto, sans-serif;
-    font-size: 5rem;
+    font-size: 3.5rem;
     font-weight: 500;
     line-height: .8;
   }
@@ -6408,13 +6408,13 @@ html {
     .heading-xhuge {
       color: var(--blue);
       font-family: Toronto, sans-serif;
-      font-size: 5rem;
+      font-size: 3.5rem;
     }
-    @media only screen and (min-width: 1024px) and (orientation: landscape) {
+    @media only screen and (min-width: 700px) and (orientation: landscape) {
       .heading-xhuge {
-          font-size: 3.5rem; /* Adjust as needed for desktop or horizontal screens*/
+          font-size: 3.5rem;  /*Adjust as needed for desktop or horizontal screens*/
       }
-  }
+    }
   
     .heading-value {
       font-family: Toronto, sans-serif;
@@ -8502,6 +8502,18 @@ html {
           width: 90%;
       }
   }
+
+  /* new styles*/
+  .service-item_bottom {
+    position: relative;
+}
+
+.secondary-list-wrapper {
+    position: absolute;
+    bottom: 0;
+    right: 0;
+}
+
   
   #w-node-c6d7ef98-3aea-7901-5e30-8c66c37b93ce-ffd053b3 {
     justify-self: center;
