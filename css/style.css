@@ -184,10 +184,6 @@ html {
     font-weight: normal;
     font-style: normal;
   }
-  /*.navbar_menu.w-nav-menu{
-    background-color: rgba(117, 134, 150, 0) !important;
-  }*/
-  /*class navmenu get in touc page*/
   [class^="w-icon-"], [class*=" w-icon-"] {
     speak: none;
     font-variant: normal;
