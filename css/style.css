@@ -234,7 +234,7 @@ html {
   
   body {
     min-height: 100%;
-    color: #333;
+    color: var(--blue);
     background-color: #fff;
     margin: 0;
     font-family: Arial, sans-serif;
@@ -2184,7 +2184,7 @@ html {
   
   body {
     background-color: var(--alabaster);
-    color: var(--black-bean);
+    color: var(--blue);
     font-family: Sherika, sans-serif;
     font-size: 1rem;
     line-height: 1.5;
@@ -4991,6 +4991,7 @@ html {
   
   .team-heading {
     align-self: flex-start;
+    padding-top: 3rem;
   }
   
   .team-item {
@@ -8512,6 +8513,32 @@ html {
     position: absolute;
     bottom: 0;
     right: 0;
+}
+
+.testimonial-item {
+  flex-basis: calc(50% - 1rem); /* Set width for each column with padding */
+  /*background-color: #fff;*/ /* White background for each column */
+  border-radius: 0.5rem; /* Rounded borders */
+   /* Padding for each column */
+}
+
+.testimonial-content {
+  text-align: center; /* Center content */
+}
+
+.testimonial-heading {
+  text-align: center;
+  margin-top: auto;
+  margin-bottom: auto; /* Add space below the heading */
+  font-size: 1rem;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+}
+
+.thumbnail {
+  width: 100%; /* Make sure thumbnails fill the container */
+  border-radius: 0.5rem; /* Rounded borders for thumbnails */
+  
 }
 
   
