@@ -8536,6 +8536,11 @@ html {
   border-radius: 0.5rem; /* Rounded borders for thumbnails */
   
 }
+/* background removal in contact-us page*/
+.contact-us-page {
+  background-color: transparent !important; /* This will override any previous background color */
+}
+
 
   
   #w-node-c6d7ef98-3aea-7901-5e30-8c66c37b93ce-ffd053b3 {
