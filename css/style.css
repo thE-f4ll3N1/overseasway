@@ -8543,11 +8543,9 @@ html {
 /* Add CSS to adjust layout for smaller screens */
 /*university image issue*/
 .university-img {
-  margin-bottom: 6rem;
+  margin-bottom: 7rem;
 }
-.university-img .img-aus-nz {
-  margin-bottom: 8rem;
-}
+
   
   #w-node-c6d7ef98-3aea-7901-5e30-8c66c37b93ce-ffd053b3 {
     justify-self: center;
