@@ -8536,10 +8536,10 @@ html {
   border-radius: 0.5rem; /* Rounded borders for thumbnails */
   
 }
-/* background removal in contact-us page*/
+/* background removal in contact-us page
 .contact-us-page {
-  background-color: transparent !important; /* This will override any previous background color */
-}
+  background-color: transparent !important; /* This will override any previous background color
+}*/
 
 
   
