@@ -8538,7 +8538,7 @@ html {
 }
 /* background removal in contact-us page */
 /* Media query for desktop and above */
-@media (min-width: 1024px) {
+@media (min-width: 720px) {
   .contact-us-page {
     background-color: transparent !important;/* Remove background for desktop and above */
   }
