@@ -2748,7 +2748,7 @@ html {
   }
   
   .padding-vertical.padding-custom3 {
-    padding: 7rem;
+    padding: 1rem;
   }
   @media (min-width: 768px) {
     .padding-vertical.padding-custom3 {
@@ -4861,7 +4861,7 @@ html {
   
   .heading-value {
     color: var(--blue);
-    text-align: left;
+    text-align: center;
     white-space: pre-wrap;
     font-family: Toronto, sans-serif;
     font-size: 5rem;
@@ -7836,7 +7836,7 @@ html {
   
     .country-div.aus {
       top: 22rem;
-      left: 29.3rem;
+      left: 24rem;
     }
   
     .footer-divider {
@@ -7854,7 +7854,7 @@ html {
     }
   
     .text-weight-semibold {
-      color: var(--astronaut);
+      color: var(--alabaster);
     }
   
     .show-mobile-portrait {
