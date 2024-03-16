@@ -2155,7 +2155,7 @@ html {
   }
   
   p {
-    color: var(--black-bean);
+    color: var(--astronaut);
     margin-bottom: 0;
     font-weight: 300;
   }
@@ -6013,6 +6013,7 @@ html {
   
   .text-span {
     color: var(--blue);
+    font-family: Toronto, sans-serif;
     font-size: 4.6rem;
     font-weight: 700;
   }
@@ -6278,7 +6279,7 @@ html {
   
   .span-univ {
     font-family: Nunito Variablefont Wght, sans-serif;
-    font-size: 3rem;
+    font-size: 2.2rem;
     font-style: italic;
     font-weight: 400;
     text-decoration: none;
@@ -6741,7 +6742,7 @@ html {
     }
   
     .hero-image-wrapper {
-      width: 20rem;
+      width: 15rem;
     }
   
     .heading-xxxlarge {
@@ -7681,7 +7682,7 @@ html {
   
     .service-item_top {
       padding-top: 1rem;
-      padding-bottom: 1rem;
+      padding-bottom: 0rem;
     }
   
     .service-item_icon {
@@ -8299,7 +8300,7 @@ html {
     }
   
     .text-span {
-      font-size: 2.6rem;
+      font-size: 2rem;
     }
   
     .heading-8, .heading-9, .heading-10 {
@@ -8502,6 +8503,26 @@ html {
   color: var(--alabaster);
   padding-top: 2.5rem;
   padding-bottom: 1rem;
+}
+
+.hero-image-globe {
+  padding-top: 3rem;
+  max-width: 80%;
+}
+
+.destination-class {
+  padding-top: 2rem !important;
+  margin-bottom: -2.5rem !important;
+}
+
+.testimonial-head {
+  font-size: smaller;
+  padding-top: 2rem;
+}
+
+.partner-univ {
+  font-size: 2rem;
+  padding-left: 1rem;
 }
   
   #w-node-b32f95fe-9946-30b9-1a25-781d41e01f2c-ffd053b3, #w-node-_91daed0c-56c7-2ee6-eb5b-0adca7b99192-a430b36c {
