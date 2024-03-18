@@ -7272,7 +7272,7 @@ html {
     }
   
     .margin-small {
-      margin: 1.25rem;
+      margin: 0.5rem 1.25rem;
     }
   
     .margin-medium {
@@ -8337,8 +8337,8 @@ html {
     }
   
     .country-div.usa {
-      top: 10rem;
-      left: 3.7rem;
+      top: 12rem;
+      left: 3.3rem;
     }
   
     .country-div.uk {
@@ -8347,7 +8347,7 @@ html {
     }
   
     .country-div.eur {
-      top: 9rem;
+      top: 10rem;
       left: 12rem;
     }
   
@@ -8357,7 +8357,7 @@ html {
     }
   
     .country-div.aus {
-      top: 13.4rem;
+      top: 13.8rem;
       left: 18.6rem;
     }
   
@@ -8516,7 +8516,7 @@ html {
 }
 
 .testimonial-head {
-  font-size: smaller;
+  font-size: 3rem;
   padding-top: 2rem;
 }
 
