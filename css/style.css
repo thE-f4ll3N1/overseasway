@@ -6311,7 +6311,7 @@ html {
     }
   
     .section-services.widescreen {
-      padding-top: 25rem;
+      padding-top: 33rem;
     }
   
     .footer_link.long {
@@ -8364,6 +8364,12 @@ html {
     .text-block-2 {
       font-size: .5rem;
     }
+  }
+  @media screen and (max-width: 1080px) {
+    .section-services.widescreen {
+      padding-top: 4rem;
+    }
+    
   }
   /*carousel trial*/
   .slider {
