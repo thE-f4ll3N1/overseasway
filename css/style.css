@@ -8530,6 +8530,16 @@ html {
   font-size: 2rem;
   padding-left: 1rem;
 }
+
+.privacy-policy-para p,li{
+  color: #e2e2e2;
+  font-size: larger;
+}
+
+.privacy-policy-para h2,h3 {
+  margin-top: 2rem;
+  color: #e2e2e2;
+}
   
   #w-node-b32f95fe-9946-30b9-1a25-781d41e01f2c-ffd053b3, #w-node-_91daed0c-56c7-2ee6-eb5b-0adca7b99192-a430b36c {
     grid-area: span 1 / span 1 / span 1 / span 1;
