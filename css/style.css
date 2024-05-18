@@ -8540,6 +8540,11 @@ html {
   margin-top: 2rem;
   color: #e2e2e2;
 }
+
+.footer-custom-padding {
+  padding-bottom: 1rem !important;
+  padding-top: 1.3rem;
+}
   
   #w-node-b32f95fe-9946-30b9-1a25-781d41e01f2c-ffd053b3, #w-node-_91daed0c-56c7-2ee6-eb5b-0adca7b99192-a430b36c {
     grid-area: span 1 / span 1 / span 1 / span 1;
