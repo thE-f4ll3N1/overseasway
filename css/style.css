@@ -2771,7 +2771,7 @@ html {
   }
   
   .padding-vertical.padding-custom2 {
-    padding: 2rem 0 2rem;
+    padding: 2rem 0 0rem;
   }
   
   .padding-vertical.padding-xxsmall, .padding-vertical.padding-huge, .padding-vertical.padding-small {
@@ -8471,6 +8471,7 @@ html {
 }
 
 /* Add CSS to adjust layout for smaller screens */
+
 /*university image issue*/
 .university-img {
   margin-bottom: 8rem;
@@ -8545,7 +8546,61 @@ html {
   padding-bottom: 1rem !important;
   padding-top: 1.3rem;
 }
-  
+
+/* Custom testimonial section */
+.testimonial-section {
+  padding: 50px 20px;
+  background-color: #f9f9f9;
+  text-align: center;
+}
+
+.testimonial-section h2 {
+  font-size: 36px;
+  margin-bottom: 20px;
+  color: #333;
+}
+
+.testimonial-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 20px;
+  letter-spacing: .1rem;
+}
+
+.testimonial-box {
+  background: #fff;
+  border: 1px solid #ddd;
+  border-radius: 10px;
+  width: 300px;
+  padding: 20px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  transition: transform 0.2s;
+}
+
+.testimonial-box:hover {
+  transform: translateY(-5px);
+}
+
+.testimonial-text {
+  font-size: 16px;
+  line-height: 1.5;
+  color: #333 !important; /* Adjusted color for better visibility */
+  margin-bottom: 15px;
+}
+
+.testimonial-name {
+  font-weight: bold;
+  font-size: 18px;
+  color: #333;
+}
+
+.testimonial-country {
+  font-size: 14px;
+  color: #888;
+}
+/* Custom testimonial ends */
+
   #w-node-b32f95fe-9946-30b9-1a25-781d41e01f2c-ffd053b3, #w-node-_91daed0c-56c7-2ee6-eb5b-0adca7b99192-a430b36c {
     grid-area: span 1 / span 1 / span 1 / span 1;
   }
